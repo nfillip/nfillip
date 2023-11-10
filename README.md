@@ -15,7 +15,7 @@ class Skills extends SoftwareDeveloper {
     this.languages = ['JavaScript', 'CSS', 'HTML'];
     this.databases = ['MongoDB', 'MySQL'];
     this.technologies = ['React', 'GraphQL', 'Node', 'Express', 'Git', 'Bootstrap', 'jQuery', 'TailwindCSS'];
-    this.traits = ['leadership', 'collaboration', 'passionate']
+    this.traits = ['leadership', 'collaboration', 'passion', 'hard-work']
 }
 ```
 ![rifat's github stats](https://github-readme-stats.vercel.app/api?username=nfillip&show_icons=true&theme=tokyonight)
